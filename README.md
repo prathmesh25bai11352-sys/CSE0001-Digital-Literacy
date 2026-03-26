@@ -9,6 +9,6 @@
 * **Collaboration:** Developed a 5-question 'Digital Literacy Awareness Quiz' using Google Forms to collect and analyze peer awareness data.
 
 **Files:**
-* `hackerrank_badge.png` - Proof of challenge completion.
-* `google_form_screenshot.png` - View of the quiz design.
-* `response_sheet_screenshot.png` - View of the linked Google Sheet showing the response structure.
+* `CodeChef.png` - Proof of challenge completion.
+* `Digital_Literacy_Awareness_Quiz.png` - View of the quiz design.
+* `responses.png` - View of the linked Google Sheet showing the response structure.
