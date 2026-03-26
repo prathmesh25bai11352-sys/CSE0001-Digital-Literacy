@@ -7,6 +7,6 @@
 2. **Social Media Guide:** A 'Do's and Don'ts' checklist for maintaining a professional online reputation as a college student.
 
 **Files:**
-* `assignment_extension.txt` - Formal request to a professor.
-* `internship_inquiry.txt` - Professional interest email to a recruiter.
+* `Extention Request.pdf` - Formal request to a professor.
+* `Internship Enquiry.pdf` - Professional interest email to a recruiter.
 * `social-media-checklist.md` - Tips for responsible social media use.
