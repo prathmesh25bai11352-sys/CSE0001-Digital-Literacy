@@ -3,10 +3,10 @@
 # Task 2: Student Digital Portfolio
 
 ### Established Platforms
-[cite_start]I have set up professional profiles on the following platforms to build my digital footprint[cite: 31, 33]:
-1. [cite_start]**GitHub:** For version control and showcasing code[cite: 34].
-2. [cite_start]**LinkedIn:** For professional networking and internship tracking[cite: 35].
-3. [cite_start]**Kaggle:** For data science practice and competitions[cite: 33].
+I have set up professional profiles on the following platforms to build my digital footprint:
+1. **GitHub:** For version control and showcasing code.
+2. **LinkedIn:** For professional networking and internship tracking.
+3. **Kaggle:** For data science practice and competitions.
 
 **Files:**
-* [cite_start]Screenshots of each verified profile are stored here[cite: 36].
+* Screenshots of each verified profile are stored here.
